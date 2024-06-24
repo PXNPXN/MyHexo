@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T06:34:10.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bCzTPZ5jxdSC_e21Hdw1" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:17:48.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aCUhY2uCthZm4GDXqpiN" version="24.5.5" type="github">
   <diagram name="第 1 页" id="k-LpbCM32OpcOp3UZ3Re">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="pHz1W07ULWtWpN8zCI2h-114" value="eslint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#92CDDC;" parent="1" vertex="1">
           <mxGeometry x="670" y="151.25" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pHz1W07ULWtWpN8zCI2h-115" value="Aliyun Oss" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
+        <mxCell id="pHz1W07ULWtWpN8zCI2h-115" value="Oss" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
           <mxGeometry x="493.34" y="476" width="54.16" height="49.99" as="geometry" />
         </mxCell>
         <mxCell id="pHz1W07ULWtWpN8zCI2h-116" value="Devops" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" parent="1" vertex="1">
